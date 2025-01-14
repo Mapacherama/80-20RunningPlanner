@@ -1,6 +1,6 @@
 import React from "react";
-import Schedule from "./Schedule"; // Component for the weekly schedule
-import ProgressTracker from "./ProgressTracker"; // Component for the progress bar
+import Schedule from "./components/schedule"; // Component for the weekly schedule
+import ProgressTracker from "./components/progressTracker"; // Component for the progress bar
 
 const LandingPage = () => {
   return (

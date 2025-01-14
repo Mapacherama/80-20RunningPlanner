@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 
 // Example schedule data
